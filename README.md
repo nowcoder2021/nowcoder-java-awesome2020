@@ -106,4 +106,8 @@
 104. [转专业菜鸡的秋招总结](https://www.nowcoder.com/discuss/574089?from=gitnowcoder2099)
 105. [1.3年工作经验，双非裸辞社招面经 【已入职】](https://www.nowcoder.com/discuss/578614?from=gitnowcoder2100)
 ---
-求职之前，先上牛客。
+求职之前，先上牛客
+
+更多简历/笔试/面试/内推/求职相关，请登录：
+
+[www.nowcoder.com](www.nowcoder.com?from=gitnowcoder2021)
