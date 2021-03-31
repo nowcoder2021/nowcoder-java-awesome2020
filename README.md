@@ -1,5 +1,4 @@
-# nowcoder-java-awesome2020
-牛客网2020年Java精华面经汇总
+# 牛客网2020年Java精华面经汇总
 1. [百度云java社招三面面经](https://www.nowcoder.com/discuss/359812?from=gitnowcoder2021)
 2. [微众银行java社招面经](https://www.nowcoder.com/discuss/361709?from=gitnowcoder2021)
 3. [pdd社招一面](https://www.nowcoder.com/discuss/362188?from=gitnowcoder2021)
